@@ -1,0 +1,32 @@
+🧠 AI Visual Storyteller
+AI Visual Storyteller is a creative project that transforms written stories into a series of AI-generated images. By combining natural language processing and generative AI, it breaks down user input into visual scenes and brings narratives to life.
+
+This tool is ideal for storytellers, educators, designers, or anyone who wants to visualize their ideas in a unique and engaging way.
+
+Built using Python, NLP libraries, and text-to-image generation models.
+🔍 Key Features:
+✨ Text-to-Image Generation using state-of-the-art diffusion models
+
+🧾 Narrative Parsing to break down long text into meaningful visual scenes
+
+🖼️ Scene-by-Scene Illustration with consistent character and background design
+
+🌐 User-Friendly Interface for uploading stories and generating visuals
+
+📂 Downloadable Visual Stories in comic-strip or slideshow formats
+
+💡 Use Cases:
+Digital storytelling for writers and educators
+
+Visual content generation for blogs, presentations, or children’s books
+
+Creative tool for artists, game developers, and designers
+
+🛠️ Tech Stack:
+Python, Flask/Streamlit (frontend/backend)
+
+OpenAI or StabilityAI API for image generation
+
+NLP libraries (spaCy/NLTK) for text analysis
+
+Image processing with PIL and OpenCV
